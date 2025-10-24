@@ -339,7 +339,7 @@ function initPrayerTimes() {
     }, 1500);
   }
 
-    const FRI_DUROOD_URL = 'posters/fri_durood.jpg';
+  const FRI_DUROOD_URL = 'posters/fri_durood.jpg';
   let fridayDuroodShowing = false;
 
   function inFridayDuroodWindow() {
