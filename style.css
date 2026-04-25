@@ -41,8 +41,7 @@ body {
 }
 
 .divider {
-  margin:0.25vh auto;
-  margin: 0 auto 2vh 12.5vw;
+  margin: 0 auto 2vh 12.4vw;
   width: 70%;
   height: 0.3vh;
   background-color: white;
@@ -58,7 +57,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1vh 1vw;
   padding: 1vh 1vw 1vh 0;
   font-weight: bold;
 }
@@ -103,8 +101,6 @@ body {
 
 .dhikr-section {
   position: absolute;
-  left: 50%;
-  bottom: 4vh;
   left: 53%;
   bottom: 4.5vh;
   transform: translateX(-50%);
